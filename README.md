@@ -4,7 +4,7 @@ Description.
 
 ## subheader
 
-Pain
+Pain.
 
 ## Local Development
 
